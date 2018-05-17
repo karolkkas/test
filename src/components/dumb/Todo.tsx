@@ -8,7 +8,7 @@ const Todo = ({ completed, text, onClick, removeTodo }) => (
         onClick={onClick}
     >
         {text}
-        <button onClick={removeTodo}>Delete</button>
+        <button onClick={removeTodo}>Delete it!!!!!!!!!!! :OOOOO</button>
     </li>
 );
 
