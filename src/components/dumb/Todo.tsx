@@ -9,6 +9,7 @@ const Todo = ({ completed, text, onClick, removeTodo }) => (
     >
         {text}
         <button onClick={removeTodo}>Delete it!!!!!!!!!!! :OOOOO</button>
+        <div>git reset</div>
     </li>
 );
 
